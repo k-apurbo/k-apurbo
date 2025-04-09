@@ -11,7 +11,7 @@
 
 <!-- 🌊 Fancy Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA,0ED3CF&height=180&section=header&text=Hi%20I'm%20Apurba%20👋&fontSize=40&fontColor=ffffff" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=9333EA,0ED3CF&height=180&section=header&text=Hi%20I'm%20Apurba%20👋&fontSize=40&fontColor=fffff](https://capsule-render.vercel.app/api?type=waving&height=301&color=gradient&text=Welcome%20To%20K-Web%20TEc.&reversal=true&fontSize=50)" />
 </p>
 
 <h2 align="center">🚀 Welcome to <span style="color:#0ED3CF">K-WEB TEc</span> – Code meets Creativity</h2>
