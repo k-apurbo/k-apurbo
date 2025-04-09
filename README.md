@@ -1,11 +1,18 @@
 <!-- 🔥 Sleek Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/k-apurba/k-apurba/main/assets/kweb-banner.png" width="100%" alt="K-WEB TEc Banner" />
+ <div style="position: relative; width: 100%; height: 0; padding-top: 25.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGd3EYFTKU/nSGuBYhBgE4l873KLL21Pw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGd3EYFTKU&#x2F;nSGuBYhBgE4l873KLL21Pw&#x2F;view?utm_content=DAGd3EYFTKU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Black and Yellow Web Developer LinkedIn Banner</a> by Kamrul Islam Apurba
 </p>
 
 <!-- 💻 Cool Developer GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/k-apurba/k-apurba/main/assets/coding-dark.gif" height="300px" alt="Apurba coding gif" />
+  <img src="[https://raw.githubusercontent.com/k-apurba/k-apurba/main/assets/coding-dark.gif](https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966)" height="300px" alt="Apurba coding gif" />
 </p>
 
 <!-- 🌊 Fancy Header -->
