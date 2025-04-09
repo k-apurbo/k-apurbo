@@ -1,17 +1,20 @@
 <!-- 🔥 Sleek Banner -->
+
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0ED3CF,9333EA&height=100&section=footer"/>
  <img src="./Black and Yellow Web Developer LinkedIn Banner.jpg"/>
 </p>
 
-<!-- 💻 Cool Developer GIF -->
-<p align="center">
-  <img src="./ddd.gif" height="300px" alt="Apurba coding gif" />
-</p>
 
 <!-- 🌊 Fancy Header -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=301&color=gradient&text=Welcome%20To%20K-Web%20TEc.&reversal=true&fontSize=50" />
+</p>
+
+<!-- 💻 Cool Developer GIF -->
+
+<p align="center">
+  <img src="./ddd.gif" height="300px" alt="Apurba coding gif" />
 </p>
 
 <h2 align="center">🚀 Welcome to <span style="color:#0ED3CF">K-WEB TEc</span> – Code meets Creativity</h2>
