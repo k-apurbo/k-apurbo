@@ -1,10 +1,6 @@
 <!-- 🔥 Sleek Banner -->
 <p align="center">
- 
-
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGd3EYFTKU/nSGuBYhBgE4l873KLL21Pw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0ED3CF,9333EA&height=100&section=footer"/>
 </p>
 
 <!-- 💻 Cool Developer GIF -->
