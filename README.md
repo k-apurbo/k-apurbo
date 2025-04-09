@@ -1,6 +1,6 @@
-<!-- Animated Banner -->
+<!-- Sleek Animated GIF (300px height) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" hight="20%" alt="animated coding gif" />
+  <img src="https://raw.githubusercontent.com/k-apurba/k-apurba/main/assets/coding-dark.gif" height="300px" alt="developer working gif" />
 </p>
 
 <!-- Fancy Title -->
@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA,0ED3CF&height=180&section=header&text=K-WEB%20TEc%20by%20k-apurba&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h2 align="center">🌑 Welcome to the Mordern Side of Dev 🌑</h2>
+<h2 align="center">🌑 Welcome to the Dark Side of Dev 🌑</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0ED3CF&center=true&vCenter=true&width=435&lines=Turning+ideas+into+cool+web+apps;Frontend+%2B+Backend+%3D+Magic;Building+with+style+and+speed!" />
