@@ -1,6 +1,7 @@
 <!-- 🔥 Sleek Banner -->
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ED3CF,9333EA&height=100&section=footer"/>
+ <img src="./Black and Yellow Web Developer LinkedIn Banner.jpg"/>
 </p>
 
 <!-- 💻 Cool Developer GIF -->
